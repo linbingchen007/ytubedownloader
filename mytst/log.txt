@@ -1,0 +1,393 @@
+WARNING: Writing cache to u'/var/www/.cache/youtube-dl/youtube-sigfuncs/js_vfljnKokH_45.40.json' failed: Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/cache.py", line 46, in store
+    os.makedirs(os.path.dirname(fn))
+  File "/usr/lib/python2.7/os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "/usr/lib/python2.7/os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "/usr/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 13] Permission denied: '/var/www/.cache'
+
+WARNING: Writing cache to u'/var/www/.cache/youtube-dl/youtube-sigfuncs/js_vfljnKokH_42.40.json' failed: Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/cache.py", line 46, in store
+    os.makedirs(os.path.dirname(fn))
+  File "/usr/lib/python2.7/os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "/usr/lib/python2.7/os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "/usr/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 13] Permission denied: '/var/www/.cache'
+
+ERROR: unable to open for writing: [Errno 13] Permission denied: 'tmp.mp4.part'
+WARNING: Writing cache to u'/var/www/.cache/youtube-dl/youtube-sigfuncs/js_vfljnKokH_45.40.json' failed: Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/cache.py", line 46, in store
+    os.makedirs(os.path.dirname(fn))
+  File "/usr/lib/python2.7/os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "/usr/lib/python2.7/os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "/usr/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 13] Permission denied: '/var/www/.cache'
+
+WARNING: Writing cache to u'/var/www/.cache/youtube-dl/youtube-sigfuncs/js_vfljnKokH_43.40.json' failed: Traceback (most recent call last):
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/cache.py", line 46, in store
+    os.makedirs(os.path.dirname(fn))
+  File "/usr/lib/python2.7/os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "/usr/lib/python2.7/os.py", line 150, in makedirs
+    makedirs(head, mode)
+  File "/usr/lib/python2.7/os.py", line 157, in makedirs
+    mkdir(name, mode)
+OSError: [Errno 13] Permission denied: '/var/www/.cache'
+
+WARNING: [youtube] NU9JoFKlaZ0: Skipping DASH manifest: ExtractorError(u'Signature extraction failed: Traceback (most recent call last):\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/extractor/youtube.py", line 560, in _decrypt_signature\n    video_id, player_url, s\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/extractor/youtube.py", line 487, in _extract_signature_function\n    cache_res = res(test_string)\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/extractor/youtube.py", line 539, in <lambda>\n    return lambda s: initial_function([s])\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/jsinterp.py", line 179, in resf\n    res = self.interpret_statement(stmt, local_vars)\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/jsinterp.py", line 48, in interpret_statement\n    v = self.interpret_expression(expr, local_vars, allow_recursion)\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/jsinterp.py", line 114, in interpret_expression\n    return obj[member](argvals)\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/jsinterp.py", line 179, in resf\n    res = self.interpret_statement(stmt, local_vars)\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/jsinterp.py", line 49, in interpret_statement\n    return assign(v)\n  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/jsinterp.py", line 32, in assign\n    lvar[idx] = val\nIndexError: list assignment index out of range\n (caused by IndexError(\'list assignment index out of range\',)); please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.',)
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:" ) to search YouTube
+ERROR: u'asdf' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:asdf" ) to search YouTube
+ERROR: u'asdf' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:asdf" ) to search YouTube
+ERROR: RfvTYr7aUXc: YouTube said: The uploader has not made this video available in your country.
+ERROR: RfvTYr7aUXc: YouTube said: The uploader has not made this video available in your country.
+Usage: youtube-dl [options] url [url...]
+
+youtube-dl: error: no such option: -Y
+Usage: youtube-dl [options] url [url...]
+
+youtube-dl: error: no such option: -Y
+Usage: youtube-dl [options] url [url...]
+
+youtube-dl: error: no such option: -Y
+ERROR: u'sfasd' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:sfasd" ) to search YouTube
+ERROR: u'asfd' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:asfd" ) to search YouTube
+ERROR: u'asfd' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:asfd" ) to search YouTube
+ERROR: u'asfd' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:asfd" ) to search YouTube
+ERROR: u'asfd' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:asfd" ) to search YouTube
+ERROR: u'asdf' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:asdf" ) to search YouTube
+ERROR: u'adsf' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:adsf" ) to search YouTube
+ERROR: u'adsf' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:adsf" ) to search YouTube
+ERROR: u'ggvh' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:ggvh" ) to search YouTube
+ERROR: u'jkl' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:jkl" ) to search YouTube
+ERROR: u'download' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:download" ) to search YouTube
+ERROR: u'asdf' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:asdf" ) to search YouTube
+ERROR: u'Youtube' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:Youtube" ) to search YouTube
+ERROR: u'dgg' is not a valid URL. Set --default-search "ytsearch" (or run  youtube-dl "ytsearch:dgg" ) to search YouTube
+WARNING: [youtube] Jb-tnVgQnfE: Skipping DASH manifest: ExtractorError(u'Cannot decrypt signature without player_url; please report this issue on https://yt-dl.org/bug . Make sure you are using the latest version; see  https://yt-dl.org/update  on how to update. Be sure to call youtube-dl with the --verbose flag and include its complete output.',)
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 13, in <module>
+    from .utils import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/utils.py", line 9, in <module>
+    import ctypes
+  File "/usr/lib/python2.7/ctypes/__init__.py", line 10, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: /usr/lib/python2.7/lib-dynload/_ctypes.so: failed to map segment from shared object: Cannot allocate memory
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/apport_python_hook.py", line 66, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python2.7/dist-packages/apport/__init__.py", line 1, in <module>
+    from apport.report import Report
+  File "/usr/lib/python2.7/dist-packages/apport/report.py", line 16, in <module>
+    from xml.parsers.expat import ExpatError
+  File "/usr/lib/python2.7/xml/parsers/expat.py", line 4, in <module>
+    from pyexpat import *
+ImportError: /usr/lib/python2.7/lib-dynload/pyexpat.so: failed to map segment from shared object: Cannot allocate memory
+
+Original exception was:
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 13, in <module>
+    from .utils import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/utils.py", line 9, in <module>
+    import ctypes
+  File "/usr/lib/python2.7/ctypes/__init__.py", line 10, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: /usr/lib/python2.7/lib-dynload/_ctypes.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 13, in <module>
+    from .utils import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/utils.py", line 9, in <module>
+    import ctypes
+  File "/usr/lib/python2.7/ctypes/__init__.py", line 10, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: /usr/lib/python2.7/lib-dynload/_ctypes.so: failed to map segment from shared object: Cannot allocate memory
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/apport_python_hook.py", line 66, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python2.7/dist-packages/apport/__init__.py", line 1, in <module>
+    from apport.report import Report
+  File "/usr/lib/python2.7/dist-packages/apport/report.py", line 16, in <module>
+    from xml.parsers.expat import ExpatError
+  File "/usr/lib/python2.7/xml/parsers/expat.py", line 4, in <module>
+    from pyexpat import *
+ImportError: /usr/lib/python2.7/lib-dynload/pyexpat.so: failed to map segment from shared object: Cannot allocate memory
+
+Original exception was:
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 13, in <module>
+    from .utils import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/utils.py", line 9, in <module>
+    import ctypes
+  File "/usr/lib/python2.7/ctypes/__init__.py", line 10, in <module>
+    from _ctypes import Union, Structure, Array
+ImportError: /usr/lib/python2.7/lib-dynload/_ctypes.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 8, in <module>
+    from .compat import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/compat.py", line 39, in <module>
+    import cookielib as compat_cookiejar
+  File "/usr/lib/python2.7/cookielib.py", line 38, in <module>
+    from calendar import timegm
+  File "/usr/lib/python2.7/calendar.py", line 9, in <module>
+    import datetime
+ImportError: /usr/lib/python2.7/lib-dynload/datetime.so: failed to map segment from shared object: Cannot allocate memory
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/apport_python_hook.py", line 66, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python2.7/dist-packages/apport/__init__.py", line 1, in <module>
+    from apport.report import Report
+  File "/usr/lib/python2.7/dist-packages/apport/report.py", line 16, in <module>
+    from xml.parsers.expat import ExpatError
+  File "/usr/lib/python2.7/xml/parsers/expat.py", line 4, in <module>
+    from pyexpat import *
+ImportError: /usr/lib/python2.7/lib-dynload/pyexpat.so: failed to map segment from shared object: Cannot allocate memory
+
+Original exception was:
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 8, in <module>
+    from .compat import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/compat.py", line 39, in <module>
+    import cookielib as compat_cookiejar
+  File "/usr/lib/python2.7/cookielib.py", line 38, in <module>
+    from calendar import timegm
+  File "/usr/lib/python2.7/calendar.py", line 9, in <module>
+    import datetime
+ImportError: /usr/lib/python2.7/lib-dynload/datetime.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 8, in <module>
+    from .compat import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/compat.py", line 39, in <module>
+    import cookielib as compat_cookiejar
+  File "/usr/lib/python2.7/cookielib.py", line 38, in <module>
+    from calendar import timegm
+  File "/usr/lib/python2.7/calendar.py", line 9, in <module>
+    import datetime
+ImportError: /usr/lib/python2.7/lib-dynload/datetime.so: failed to map segment from shared object: Cannot allocate memory
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/apport_python_hook.py", line 66, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python2.7/dist-packages/apport/__init__.py", line 1, in <module>
+    from apport.report import Report
+  File "/usr/lib/python2.7/dist-packages/apport/report.py", line 16, in <module>
+    from xml.parsers.expat import ExpatError
+  File "/usr/lib/python2.7/xml/parsers/expat.py", line 4, in <module>
+    from pyexpat import *
+ImportError: /usr/lib/python2.7/lib-dynload/pyexpat.so: failed to map segment from shared object: Cannot allocate memory
+
+Original exception was:
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 8, in <module>
+    from .compat import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/compat.py", line 39, in <module>
+    import cookielib as compat_cookiejar
+  File "/usr/lib/python2.7/cookielib.py", line 38, in <module>
+    from calendar import timegm
+  File "/usr/lib/python2.7/calendar.py", line 9, in <module>
+    import datetime
+ImportError: /usr/lib/python2.7/lib-dynload/datetime.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 8, in <module>
+    from .compat import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/compat.py", line 39, in <module>
+    import cookielib as compat_cookiejar
+  File "/usr/lib/python2.7/cookielib.py", line 38, in <module>
+    from calendar import timegm
+  File "/usr/lib/python2.7/calendar.py", line 9, in <module>
+    import datetime
+ImportError: /usr/lib/python2.7/lib-dynload/datetime.so: failed to map segment from shared object: Cannot allocate memory
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/apport_python_hook.py", line 66, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python2.7/dist-packages/apport/__init__.py", line 1, in <module>
+    from apport.report import Report
+  File "/usr/lib/python2.7/dist-packages/apport/report.py", line 16, in <module>
+    from xml.parsers.expat import ExpatError
+  File "/usr/lib/python2.7/xml/parsers/expat.py", line 4, in <module>
+    from pyexpat import *
+ImportError: /usr/lib/python2.7/lib-dynload/pyexpat.so: failed to map segment from shared object: Cannot allocate memory
+
+Original exception was:
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 8, in <module>
+    from .compat import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/compat.py", line 39, in <module>
+    import cookielib as compat_cookiejar
+  File "/usr/lib/python2.7/cookielib.py", line 38, in <module>
+    from calendar import timegm
+  File "/usr/lib/python2.7/calendar.py", line 9, in <module>
+    import datetime
+ImportError: /usr/lib/python2.7/lib-dynload/datetime.so: failed to map segment from shared object: Cannot allocate memory
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 8, in <module>
+    from .compat import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/compat.py", line 39, in <module>
+    import cookielib as compat_cookiejar
+  File "/usr/lib/python2.7/cookielib.py", line 38, in <module>
+    from calendar import timegm
+  File "/usr/lib/python2.7/calendar.py", line 9, in <module>
+    import datetime
+ImportError: /usr/lib/python2.7/lib-dynload/datetime.so: failed to map segment from shared object: Cannot allocate memory
+Error in sys.excepthook:
+Traceback (most recent call last):
+  File "/usr/lib/python2.7/dist-packages/apport_python_hook.py", line 66, in apport_excepthook
+    from apport.fileutils import likely_packaged, get_recent_crashes
+  File "/usr/lib/python2.7/dist-packages/apport/__init__.py", line 1, in <module>
+    from apport.report import Report
+  File "/usr/lib/python2.7/dist-packages/apport/report.py", line 16, in <module>
+    from xml.parsers.expat import ExpatError
+  File "/usr/lib/python2.7/xml/parsers/expat.py", line 4, in <module>
+    from pyexpat import *
+ImportError: /usr/lib/python2.7/lib-dynload/pyexpat.so: failed to map segment from shared object: Cannot allocate memory
+
+Original exception was:
+Traceback (most recent call last):
+  File "/usr/local/bin/youtube-dl", line 9, in <module>
+    load_entry_point('youtube-dl==2014.11.27', 'console_scripts', 'youtube-dl')()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 337, in load_entry_point
+    return get_distribution(dist).load_entry_point(group, name)
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 2279, in load_entry_point
+    return ep.load()
+  File "/usr/lib/python2.7/dist-packages/pkg_resources.py", line 1989, in load
+    entry = __import__(self.module_name, globals(),globals(), ['__name__'])
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/__init__.py", line 15, in <module>
+    from .options import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/options.py", line 8, in <module>
+    from .compat import (
+  File "/usr/local/lib/python2.7/dist-packages/youtube_dl/compat.py", line 39, in <module>
+    import cookielib as compat_cookiejar
+  File "/usr/lib/python2.7/cookielib.py", line 38, in <module>
+    from calendar import timegm
+  File "/usr/lib/python2.7/calendar.py", line 9, in <module>
+    import datetime
+ImportError: /usr/lib/python2.7/lib-dynload/datetime.so: failed to map segment from shared object: Cannot allocate memory
