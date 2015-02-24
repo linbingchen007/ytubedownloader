@@ -9,9 +9,7 @@ Youtube URL: <input type="text" name="ytubeurl">
 
 <input type="submit" class="btn btn-default" value="Download!">
 </form>
-<p> MyBlog:<a href="http://blog.mrlin.tk">blog.mrlin.tk</a> <br>
-  Author:MrLin <br>
-  E-mail:linbingchen2012@gmail.com <br> </p>
+
 
 </div>
 <script src="https://ajax.googleapis.com/ajax/libs/jquery/1.11.1/jquery.min.js"></script>
