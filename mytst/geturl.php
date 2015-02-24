@@ -69,9 +69,7 @@ if ($fg == 1){
 ?>
 
 <a class="btn btn-info btn-danger"  href="index.php">return </a>
-<p> MyBlog:<a href="blog.mrlin.tk">blog.mrlin.tk</a> <br>
- Author:MrLin <br>
- E-mail:linbingchen2012@gmail.com <br> </p>
+
  </div>
  <!-- JavaScript placed at the end of the document so the pages load faster -->
      <!-- Optional: Include the jQuery library -->
